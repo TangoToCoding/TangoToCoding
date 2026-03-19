@@ -14,7 +14,12 @@ Ich beschäftige mich mit Python, Datenanalyse und Experimenten.
 
 ---
 
-## 🚀 Skills# 👋 Hallo, ich bin Andreas
+## 🚀 Skills
+
+- Python  
+- pandas  
+- numpy  
+- matplotlib  
 
 Ich beschäftige mich mit Python, Datenanalyse und Experimenten.
 
