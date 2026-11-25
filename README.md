@@ -13,6 +13,8 @@
 | **[Portfolio-Homepage](https://tangotocoding.github.io/)** | Architecture overview, selected references and project context |
 | **[Drei Architektur-Fallstudien / Three case studies](https://tangotocoding.github.io/#case-studies)** | Bilingual technical evidence and six public PDFs |
 | **[Google Developer Profile](https://g.dev/tangotocoding)** | Public developer identity within the Google Developer Program |
+| **[LinkedIn – TangoToCoding career journey](https://www.linkedin.com/in/tango-dancer-882375410/)** | Professional identity, Argentine tango background and the move into AI-assisted engineering |
+| **[DEV Community – TangoToCoding](https://dev.to/tangotocoding)** | Public developer profile and technical writing |
 
 ### Architecture case studies · Architektur-Fallstudien
 
@@ -37,6 +39,6 @@ The Python analysis and PsychoPy projects are private; project descriptions here
 
 ---
 
-**One professional identity, three interconnected destinations:** [Portfolio](https://tangotocoding.github.io/) · [GitHub](https://github.com/TangoToCoding) · [Google Developer](https://g.dev/tangotocoding)
+**One professional identity, five connected destinations:** [Portfolio](https://tangotocoding.github.io/) · [GitHub](https://github.com/TangoToCoding) · [Google Developer](https://g.dev/tangotocoding) · [LinkedIn](https://www.linkedin.com/in/tango-dancer-882375410/) · [DEV Community](https://dev.to/tangotocoding)
 
 *Selected technical work is documented as project-based competence, not as a claim of a previously held senior architecture role. No confidential repositories, credentials or employer contact information are published here.*
