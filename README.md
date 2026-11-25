@@ -1,10 +1,10 @@
 # TangoToCoding
 
-**Connected Engineering · AI-assisted systems architecture · Verifiable quality**
+**Vom Tango Argentino zur Technologie · From Argentine Tango to Technology**
 
-**Deutsch** · Ich konzipiere und koordiniere KI-gestützte technische Lösungen: von Anforderungen und Architekturentscheidungen über die Zusammenarbeit spezialisierter Werkzeuge bis zu Tests, Sicherheitsgrenzen und dokumentierter Abnahme. Meine Programmierung und Umsetzung erfolgen teilweise KI-gestützt. **Berufliches Ziel: AI Solutions Architect.**
+**Deutsch** · Ich bin professioneller Tango-Argentino-Tänzer und Tanzlehrer und habe TangoKunstWerk gegründet. Kommunikation, Improvisation und Zusammenarbeit prägen meine Arbeit – auf der Tanzfläche und heute auch in der Technik. Aus Neugier entstand mein autodidaktischer Weg in die KI-gestützte Softwareentwicklung und Systemgestaltung. Ich definiere Anforderungen, entwickle Lösungswege, koordiniere KI-Werkzeuge und prüfe die Ergebnisse. Dabei unterscheide ich meine konzeptionelle Arbeit von der KI-gestützten technischen Umsetzung. **Mein berufliches Ziel: AI Solutions Architect.**
 
-**English** · I design and coordinate AI-assisted engineering solutions, from requirements and system architecture to specialist tool orchestration, verification, security boundaries and documented acceptance. Implementation is partly AI-assisted. **Career direction: AI Solutions Architecture.**
+**English** · I am a professional Argentine tango dancer and teacher and the founder of TangoKunstWerk. Communication, improvisation and collaboration shape my work – on the dance floor and now in technology. Curiosity led me to self-directed learning in AI-assisted software development and systems design. I define requirements, develop solutions, coordinate AI tools and verify results, distinguishing my conceptual work from AI-assisted implementation. **My career goal: AI Solutions Architect.**
 
 ### Professional network
 
