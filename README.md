@@ -53,3 +53,11 @@ The Python analysis and PsychoPy projects are private; project descriptions here
 
 **[Architektur-Grafik / Architecture diagrams (DE + EN)](https://tangotocoding.github.io/#operational-architecture)**
 
+
+## Project architecture and technical leadership | Projektarchitektur und technische Leitung
+
+**DE** – Ich konzipiere KI-gestützte technische Lösungen und koordiniere ihre Umsetzung: Anforderungen strukturieren, Systeme und Werkzeuge integrieren, technische Arbeitspakete definieren und Ergebnisse unabhängig prüfen. **Offen für passende Festanstellungen und projektbezogene Aufträge**, insbesondere in KI-Systemarchitektur, Systemintegration und technischer Projektkoordination. Meine vier [Architektur-Fallstudien](https://tangotocoding.github.io/#case-studies) und 19 dokumentierten Referenzen zeigen tatsächliche eigenständige Praxisprojekte. Leitung ist ein angestrebtes Einsatzfeld, kein behaupteter langjähriger externer Führungstitel.
+
+**EN** – I design AI-assisted technical solutions and coordinate their delivery: framing requirements, integrating tools and systems, scoping engineering work and verifying outcomes independently. **Open to suitable permanent roles and project-based assignments** in AI solution architecture, systems integration and technical project coordination. My four [architecture case studies](https://tangotocoding.github.io/#case-studies) and 19 documented references demonstrate project-based work. Leadership is a target responsibility, not a claim of extensive prior external management experience.
+
+[Project collaboration / Projektzusammenarbeit](https://tangotocoding.github.io/#project-collaboration) · [LinkedIn](https://www.linkedin.com/in/tango-dancer-882375410/)
