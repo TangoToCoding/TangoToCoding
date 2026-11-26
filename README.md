@@ -42,3 +42,14 @@ The Python analysis and PsychoPy projects are private; project descriptions here
 **One professional identity, five connected destinations:** [Portfolio](https://tangotocoding.github.io/) · [GitHub](https://github.com/TangoToCoding) · [Google Developer](https://g.dev/tangotocoding) · [LinkedIn](https://www.linkedin.com/in/tango-dancer-882375410/) · [DEV Community](https://dev.to/tangotocoding)
 
 *Selected technical work is documented as project-based competence, not as a claim of a previously held senior architecture role. No confidential repositories, credentials or employer contact information are published here.*
+
+---
+
+### Verified AI orchestration | Geprüfte KI-Orchestrierung
+
+**DE:** Praxisnachweis einer sicher fernsteuerbaren Entwicklungsumgebung: ChatGPT koordiniert, Desktop Commander verbindet PC-ANDREAS, PowerShell nutzt die WordPress-REST-API und der begrenzte Autonomie-Wächter A v1.3 wählt sichere lokale Routings. Ein iPhone-5G-Kaltstart über FRITZ! Smart Energy bis zum authentifizierten WordPress-Lesezugang wurde am 26.11.2026 nachgewiesen; zehn kleine Integrationstests bestanden. Der Boot-Wächter startet Commander auch vor Windows-Anmeldung. Keine Behauptung unbeaufsichtigter Produktivveröffentlichung.
+
+**EN:** Field-tested remote engineering setup: ChatGPT coordinates, Desktop Commander reaches PC-ANDREAS, PowerShell uses the WordPress REST API and a bounded autonomy guardian routes permitted local tasks. On Nov 26, 2026, an iPhone-over-5G FRITZ! Smart Energy cold start through authenticated WordPress read access was verified, along with ten safe integration checks. The boot guardian makes Commander available before Windows login. No claim of unattended production publishing.
+
+**[Architektur-Grafik / Architecture diagrams (DE + EN)](https://tangotocoding.github.io/#operational-architecture)**
+
