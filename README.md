@@ -61,3 +61,17 @@ The Python analysis and PsychoPy projects are private; project descriptions here
 **EN** – I design AI-assisted technical solutions and coordinate their delivery: framing requirements, integrating tools and systems, scoping engineering work and verifying outcomes independently. **Open to suitable permanent roles and project-based assignments** in AI solution architecture, systems integration and technical project coordination. My four [architecture case studies](https://tangotocoding.github.io/#case-studies) and 19 documented references demonstrate project-based work. Leadership is a target responsibility, not a claim of extensive prior external management experience.
 
 [Project collaboration / Projektzusammenarbeit](https://tangotocoding.github.io/#project-collaboration) · [LinkedIn](https://www.linkedin.com/in/tango-dancer-882375410/)
+
+---
+
+![Illustration: Verified AI artifact handoff with integrity checks](https://tangotocoding.github.io/verified-artifact-handoff.png)
+
+## Verified artifact handoffs · Geprüfte KI-Dateiübergaben
+
+**Deutsch:** Ein konkreter Integrationsnachweis aus meiner KI-gestützten Entwicklungswerkbank: Ein 3,1-MB-Archiv wurde aus einer KI-Arbeitsumgebung direkt auf einen autorisierten Entwicklungsrechner übertragen. Die Abnahme prüfte die Bytezahl, SHA-256 und alle acht Archivbestandteile. Meine Verantwortung lag in der Architektur des Ablaufs, der Werkzeugkoordination und der unabhängigen Qualitätskontrolle; die technische Umsetzung war KI-unterstützt. Interne Steuerungsdetails, Zugänge und Sicherheitskonfigurationen bleiben bewusst privat.
+
+**English:** A documented integration result from my AI-assisted engineering workflow: a 3.1 MB archive moved directly from an AI workspace to an authorized development machine. Acceptance checks covered byte count, SHA-256 and all eight archive entries. I designed the workflow, coordinated the tools and verified the result independently; implementation was AI-assisted. Internal control details, access methods and security configurations remain private.
+
+**Focus:** dependable automation · human approval boundaries · repeatable evidence · pragmatic AI orchestration
+
+More about my work: https://tangotocoding.github.io/#case-studies
