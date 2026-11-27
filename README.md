@@ -95,3 +95,22 @@ More about my work: https://tangotocoding.github.io/#case-studies
 ![From intent to controlled execution, verified read-back and publication](https://tangotocoding.github.io/from-intent-to-verified-result.png)
 
 *Architecture and acceptance criteria were directed by me; implementation and documentation were AI-assisted. Private credentials, research evidence and internal access methods are deliberately excluded.*
+
+---
+
+## Closed-loop AI Engineering · Der geschlossene fernsteuerbare KI-Kreislauf
+
+**Deutsch:** Unsere Architektur verbindet den Auftraggeber (auch vom iPhone aus), ChatGPT als Chefarchitekt und Orchestrator, gesicherten Router-/VPN-Fernzugriff samt unterstütztem PC-Fernstart, Desktop Commander, Windows-/PowerShell-Werkbank, Windows-Bridge, optional genau einen Claude-Code-Handwerker, spezialisierte MCPs, Playwright und WordPress-Gateways. Der entscheidende Unterschied ist der **Rückkanal**: tatsächliche Prozess- und Dateiergebnisse werden unabhängig ausgelesen, geprüft und dokumentiert. Das geprüfte Ergebnis und die nächste Entscheidung gehen zurück zum Menschen. Produktivfreigaben bleiben persönlich; keine unbegrenzte Hintergrundautonomie.
+
+**English:** This is more than several connected AI tools. It is an **end-to-end, remotely operable, human-governed engineering feedback loop**: human intent and approval → ChatGPT coordination → secure router/VPN and authorised Windows workbench → specialised execution through Desktop Commander, optional Claude Code, MCPs and workflow gateways → independent tests and read-back → verified artifacts and a decision returned to the human principal. Proven for scoped tasks during active work cycles, not claimed to run indefinitely or reactivate finished conversations.
+
+![Verified closed-loop control system: human, ChatGPT, remote access, Windows workbench, specialized tools, verification and feedback](https://tangotocoding.github.io/closed-loop-architecture-en.svg)
+
+**Explore:**
+- [Der geschlossene Kreislauf – Deutsch](https://tangotocoding.github.io/closed-loop-architecture-de.html)
+- [Closed-loop AI engineering – English](https://tangotocoding.github.io/closed-loop-architecture-en.html)
+- [Architektur-Karussell (6 Folien, DE)](https://tangotocoding.github.io/closed-loop-carousel-de.pdf)
+- [Six-slide architecture carousel (EN)](https://tangotocoding.github.io/closed-loop-carousel-en.pdf)
+- [Complete architecture case study 7F](https://tangotocoding.github.io/workflow-case-study-en.html)
+
+*Human authority, practical autonomy, reusable engineering infrastructure and checkable results. Diagrams are conceptual; no private access details or confidential data exposed.*
