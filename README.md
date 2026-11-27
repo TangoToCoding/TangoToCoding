@@ -75,3 +75,23 @@ The Python analysis and PsychoPy projects are private; project descriptions here
 **Focus:** dependable automation · human approval boundaries · repeatable evidence · pragmatic AI orchestration
 
 More about my work: https://tangotocoding.github.io/#case-studies
+
+---
+
+## Governed Autonomous AI Engineering · Kontrolliertes autonomes KI-Engineering
+
+![Conceptual orchestration architecture with AI planning, a Windows bridge, bounded safeguards and independently verified outputs](https://tangotocoding.github.io/autonomous-ai-orchestration-overview.png)
+
+**Deutsch:** Meine weiterführende Architektur-Fallstudie **7F** beschreibt, wie ChatGPT, Desktop Commander, kontrollierte Windows-Anbindung, PowerShell, spezialisierte MCPs, Playwright, WordPress-Gateways und begrenzte Wächter in einem überprüfbaren Arbeitsprozess zusammenwirken. Claude Code kann bei Bedarf als ein einzelner KI-gestützter Umsetzungspartner eingesetzt werden. Die Architektur trennt Auftrag, Ausführung, unabhängige Prüfung und menschliche Schlussfreigabe. **Praxisnachweise:** 10/10 begrenzte Integrationstests, ein direkt übertragenes und per SHA-256 geprüftes 3,1-MB-Artefakt sowie eine kontrolliert veröffentlichte Portfolioreferenz. Keine unbegrenzte Autonomie oder garantierte Störungsfreiheit behauptet.
+
+**English:** My new architecture case study **7F** explains how ChatGPT, Desktop Commander, an authorised Windows integration bridge, PowerShell, specialised MCPs, Playwright, WordPress gateways and bounded operational watchers form a verifiable engineering workflow. Claude Code may assist as one scoped implementation partner where useful. Task intent, execution, independent verification and final human approval remain separate. **Field evidence:** 10/10 scoped integration tests, a directly transferred 3.1 MB artifact checked against SHA-256, and an approved public portfolio release. This is not a claim of unlimited autonomy or zero failure.
+
+**Full bilingual technical narrative:**
+- [Fallstudie 7F – Deutsch](https://tangotocoding.github.io/workflow-case-study-de.html)
+- [Case study 7F – English](https://tangotocoding.github.io/workflow-case-study-en.html)
+- [PDF Deutsch](https://tangotocoding.github.io/7F_Fallstudie_DE.pdf) · [PDF English](https://tangotocoding.github.io/7F_Fallstudie_EN.pdf)
+- [Request personal access to related deeper architecture dossiers](https://tangotocoding.github.io/#contact)
+
+![From intent to controlled execution, verified read-back and publication](https://tangotocoding.github.io/from-intent-to-verified-result.png)
+
+*Architecture and acceptance criteria were directed by me; implementation and documentation were AI-assisted. Private credentials, research evidence and internal access methods are deliberately excluded.*
